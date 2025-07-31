@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+control
+cvxpy
+gym
+scikit-fuzzy
+stable-baselines3
